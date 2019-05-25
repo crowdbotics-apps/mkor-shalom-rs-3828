@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mkor_shalom_rs_3828.wsgi:application

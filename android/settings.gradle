@@ -1,0 +1,3 @@
+rootProject.name = 'mkor_shalom_rs_3828'
+
+include ':app'
